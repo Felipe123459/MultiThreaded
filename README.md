@@ -1,5 +1,5 @@
 # MultiThread
-This project is about the implementaion of multithreaded programming. Specifically basic thread operations, resource protection with mutexes and synchronized access to resources, deadlock creation and detection, and deadlock prevention with timeouts and deadlock recovery. 
+This project is about the implementaion of multithreaded programming. Specifically basic thread operations, resource protection with mutexes and synchronized access to resources, deadlock creation and detection, and deadlock prevention with timeouts and deadlock recovery. The entirety of this project was written is C# for its threads applications.
 Instructions for building and setting the program-
 1. Open powershell as an administrator
 2. run wsl --install
